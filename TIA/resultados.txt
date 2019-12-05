@@ -1,0 +1,15 @@
+
+Partidos17/18
+j48.- 			0.760
+RandomForest.- 		0.818
+NaiveBayes.- 		0.707
+
+
+
+
+Partidos18
+j48.-			0.755
+RandomForest		0.827
+NaiveBayes.-		0.683
+
+
